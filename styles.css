@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+#Container{
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+.hidden{
+    display: none;
+}
+#img{
+    height: 300px;
+    width: auto;
+}
+#storyText{
+    font-size: 20px;
+}
+#Btn1{
+    background-color: black;
+    color: white;
+    border-width: 1px solid white;
+    border-radius: 7px;
+    width: 40px;
+}
+#Btn2{
+    background-color: black;
+    color: white;
+    border-width: 1px solid white;
+    border-radius: 7px;
+    width: 40px;
+}
+#Btn1:hover{
+    color: rgb(184, 184, 184);
+    background-color: rgb(12, 12, 12);
+}
+#Btn2:hover{
+    color: rgb(184, 184, 184);
+    background-color: rgb(12, 12, 12);
+}
